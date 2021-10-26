@@ -1,0 +1,27 @@
+{
+  "name": "CP02-jojo",
+  "version": "1.0.0",
+  "description": "trello ticket CP02 - Aihe",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "countModules": "ls node_modules | wc -l",
+    "start":"node index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo-sexton/CP02-jojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo-sexton/CP02-jojo/issues"
+  },
+  "homepage": "https://github.com/jojo-sexton/CP02-jojo#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "jest": "^27.3.1"
+  }
+}
