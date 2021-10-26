@@ -1,5 +1,5 @@
 # CP02-jojo 
-__ A personal repo on your GitHub profile is created for trello ticket CP02 - Aihe:
+__A personal repo on your GitHub profile is created for trello ticket CP02 - Aihe:
 __ I have created a repo
 __ created a package.json
 __ installed a dependency
