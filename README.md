@@ -1,6 +1,6 @@
 # CP02-jojo 
-A personal repo on your GitHub profile is created for trello ticket CP02 - Aihe:
-I have created a repo
+-A personal repo on your GitHub profile is created for trello ticket CP02 - Aihe:
+-I have created a repo
 I have created a package.json
 I have installed a dependency
 I have added the relevant files to the .gitignore file so they aren't pushed to GitHub
